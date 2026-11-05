@@ -1,0 +1,6 @@
+{
+  "name": "Local Lens AI",
+  "description": "Discover hidden places and experience local stories across Haryana, India — exploring Ambala, Barara, Kurukshetra, Pinjore, Panchkula, and Yamunanagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
